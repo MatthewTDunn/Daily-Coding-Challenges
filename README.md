@@ -2,13 +2,14 @@
 Daily coding exercises to sharpen problem solving skills, a link to my CodeWars profile can be found <a target="_blank" href="https://www.codewars.com/users/Pyr1te">here</a>
 
 
-![alt tag](https://github.com/Pyr1te/CodeWars/CodeWars.jpg)
+![alt text](https://github.com/Pyr1te/CodeWars/blob/main/CodeWars.jpg?raw=true)
 
 
-<br />This repository is filled with my solutions to codewars challenges (kata) which are primarily focused in the languages of:
-<br />Javascript  
-<br />Python      
-<br />C#          
+This repository is filled with my solutions to codewars challenges (kata) which are primarily focused in the languages of:
+<br />
+Javascript  
+Python      
+C#          
 
 A repository filled with Codewars challenges (kata). Currently Ranked in the top 15% on the global leaderboard with over 142 completed challenges (I endeavour to update these 
 figures at the beginning of each month).
