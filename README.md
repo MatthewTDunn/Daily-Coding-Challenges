@@ -11,8 +11,7 @@ Javascript
 Python      
 C#          
 
-A repository filled with Codewars challenges (kata). Currently Ranked in the top 15% on the global leaderboard with over 142 completed challenges (I endeavour to update these 
-figures at the beginning of each month).
+Currently Ranked in the top 15% on the global leaderboard with over 142 completed challenges (I endeavour to update these figures at the beginning of each month).
 
 ## How It's Made:
 
