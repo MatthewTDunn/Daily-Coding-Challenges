@@ -9,7 +9,7 @@ This repository is filled with my solutions to codewars challenges (kata) which 
 <br />
 Javascript  
 Python      
-Rust        
+C#        
 
 Currently Ranked in the top 10% on the global leaderboard with over 150 completed challenges (I endeavour to update these figures at the beginning of each month).
 
