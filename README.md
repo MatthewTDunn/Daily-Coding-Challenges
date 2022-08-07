@@ -11,7 +11,7 @@ Javascript
 Python      
 C#        
 
-Currently Ranked in the top 10% on the global leaderboard with over 150 completed challenges (I endeavour to update these figures at the beginning of each month).
+<strong>Currently Ranked in the top 6% on the global leaderboard</strong> with over 200 completed challenges (I endeavour to update these figures at the beginning of each month).
 
 ## How It's Made:
 
