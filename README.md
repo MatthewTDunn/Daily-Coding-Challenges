@@ -1,21 +1,27 @@
-# CodeWars Repository
-Daily coding exercises to sharpen problem solving skills, a link to my CodeWars profile can be found <a target="_blank" href="https://www.codewars.com/users/Pyr1te">here</a>
+# Daily coding exercises
 
+[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Pyr1te)
+<br>
+Top 6% globally ranked CodeWars challenge programmer & in excess of 200 completed challenges with a particular focus on the languages of:
+<br>
+<ul>
+  <li>Javascript</li>
+  <li>Python</li>
+</ul>
 
-![alt text](https://github.com/Pyr1te/CodeWars/blob/main/CodeWars.jpg?raw=true)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Pyr1te/)
+<br>
+LeetCode challenge programmer, focus languages:
+<br>
+<ul>
+  <li>Javascript</li>
+  <li>SQL</li>
+</ul>
 
-
-This repository is filled with my solutions to codewars challenges (kata) which are primarily focused in the languages of:
-<br />
-Javascript  
-Python      
-C#        
-
-<strong>Currently Ranked in the top 6% on the global leaderboard</strong> with over 200 completed challenges (I endeavour to update these figures at the beginning of each month).
 
 ## How It's Made:
 
-I make it a habit to push a Codewars challenge in at least one of my three focus languages each day, for a weekly push of 7 challenges minimum. 
+I make it a habit to push a coding challenge in at least one of my three focus languages each day, for a weekly push of 7 challenges minimum. 
 Once complete, I extract the instructions, test case code & highlight my solution to each problem before pushing to Github.
 
 ## Optimizations
