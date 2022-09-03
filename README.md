@@ -1,6 +1,6 @@
 # Daily coding exercises
 
-[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Pyr1te)
+[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Pyr1te) ![Codewars_Badge](https://www.codewars.com/users/Pyr1te/badges/small)<img url="https://www.codewars.com/users/Pyr1te/badges/small">
 <br>
 <strong>Top 6% globally ranked CodeWars challenge programmer, with in excess of 200 completed challenges</strong> & a particular focus on the languages of:
 <br>
